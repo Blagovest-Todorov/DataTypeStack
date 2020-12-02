@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\OOP\22.OopStack\bin\Debug\netcoreapp3.1\22.OopStack.exe
+C:\Users\Bla\source\repos\OOP\22.OopStack\bin\Debug\netcoreapp3.1\22.OopStack.deps.json
+C:\Users\Bla\source\repos\OOP\22.OopStack\bin\Debug\netcoreapp3.1\22.OopStack.runtimeconfig.json
+C:\Users\Bla\source\repos\OOP\22.OopStack\bin\Debug\netcoreapp3.1\22.OopStack.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\OOP\22.OopStack\bin\Debug\netcoreapp3.1\22.OopStack.dll
+C:\Users\Bla\source\repos\OOP\22.OopStack\bin\Debug\netcoreapp3.1\22.OopStack.pdb
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.AssemblyInfo.cs
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.dll
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.pdb
+C:\Users\Bla\source\repos\OOP\22.OopStack\obj\Debug\netcoreapp3.1\22.OopStack.genruntimeconfig.cache
